@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I’m a passionate Robotics & Digital Systems Engi
 | --------------------- | --------------------------------------- |
 | Robotics              | ROS2 · PX4 · Gazebo · CoppeliaSim       |
 | Computer Vision       | OpenCV                                  |
-| Full‑Stack & DevOps   | Docker · Kubernetes · AWS · CI/CD       |
 | Programming Languages | Python · C++ · JavaScript · Lua         |
 | AI & ML               | TensorFlow · PyTorch                    |
 
